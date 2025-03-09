@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/GenAI/Udemy_course/MLOps_Bootcamp/MLOps/mlflow_manage_ml_experiments/mlruns/359180463695102570/024307804b004cc392ee03e11d94179c/artifacts
+end_time: 1741535404103
+entry_point_name: ''
+experiment_id: '359180463695102570'
+lifecycle_stage: active
+run_id: 024307804b004cc392ee03e11d94179c
+run_name: merciful-pig-325
+run_uuid: 024307804b004cc392ee03e11d94179c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741535397977
+status: 3
+tags: []
+user_id: Appex

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/GenAI/Udemy_course/MLOps_Bootcamp/MLOps/mlflow_manage_ml_experiments/mlruns/155837860896984421/af933fe3da45484e916720b0e0b20965/artifacts
+end_time: 1741543067398
+entry_point_name: ''
+experiment_id: '155837860896984421'
+lifecycle_stage: active
+run_id: af933fe3da45484e916720b0e0b20965
+run_name: selective-deer-522
+run_uuid: af933fe3da45484e916720b0e0b20965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741543056099
+status: 3
+tags: []
+user_id: Appex

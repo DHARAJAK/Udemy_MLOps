@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/GenAI/Udemy_course/MLOps_Bootcamp/MLOps/mlflow_manage_ml_experiments/mlruns/359180463695102570/9d536542b275410f9f05f34bf71aad53/artifacts
+end_time: 1741535343477
+entry_point_name: ''
+experiment_id: '359180463695102570'
+lifecycle_stage: active
+run_id: 9d536542b275410f9f05f34bf71aad53
+run_name: capricious-tern-906
+run_uuid: 9d536542b275410f9f05f34bf71aad53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741535343440
+status: 4
+tags: []
+user_id: Appex

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/GenAI/Udemy_course/MLOps_Bootcamp/MLOps/mlflow_manage_ml_experiments/mlruns/359180463695102570/80892030783a407eba9c756c997c0c6c/artifacts
+end_time: 1741535297101
+entry_point_name: ''
+experiment_id: '359180463695102570'
+lifecycle_stage: active
+run_id: 80892030783a407eba9c756c997c0c6c
+run_name: tasteful-ant-697
+run_uuid: 80892030783a407eba9c756c997c0c6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741535297061
+status: 4
+tags: []
+user_id: Appex

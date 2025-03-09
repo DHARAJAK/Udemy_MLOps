@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/GenAI/Udemy_course/MLOps_Bootcamp/MLOps/mlflow_manage_ml_experiments/mlruns/359180463695102570/b8af8ea69ded44498410b71915e66f54/artifacts
+end_time: 1741536159170
+entry_point_name: ''
+experiment_id: '359180463695102570'
+lifecycle_stage: active
+run_id: b8af8ea69ded44498410b71915e66f54
+run_name: peaceful-dove-178
+run_uuid: b8af8ea69ded44498410b71915e66f54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741536159103
+status: 3
+tags: []
+user_id: Appex

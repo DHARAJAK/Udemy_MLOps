@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/GenAI/Udemy_course/MLOps_Bootcamp/MLOps/mlflow_manage_ml_experiments/mlruns/155837860896984421/510120ec29b343e1aa38471d2d2ba25b/artifacts
+end_time: 1741547370560
+entry_point_name: ''
+experiment_id: '155837860896984421'
+lifecycle_stage: active
+run_id: 510120ec29b343e1aa38471d2d2ba25b
+run_name: rambunctious-rat-232
+run_uuid: 510120ec29b343e1aa38471d2d2ba25b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741547352682
+status: 3
+tags: []
+user_id: Appex

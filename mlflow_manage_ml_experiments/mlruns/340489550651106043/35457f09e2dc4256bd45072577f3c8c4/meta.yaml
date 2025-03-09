@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/GenAI/Udemy_course/MLOps_Bootcamp/MLOps/mlflow_manage_ml_experiments/mlruns/340489550651106043/35457f09e2dc4256bd45072577f3c8c4/artifacts
+end_time: 1741532563421
+entry_point_name: ''
+experiment_id: '340489550651106043'
+lifecycle_stage: active
+run_id: 35457f09e2dc4256bd45072577f3c8c4
+run_name: respected-ram-84
+run_uuid: 35457f09e2dc4256bd45072577f3c8c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741532563332
+status: 3
+tags: []
+user_id: Appex

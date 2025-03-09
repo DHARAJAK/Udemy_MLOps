@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/GenAI/Udemy_course/MLOps_Bootcamp/MLOps/mlflow_manage_ml_experiments/mlruns/155837860896984421/66b99e126c664b4ca559f5a0fa73cfc0/artifacts
+end_time: 1741543073681
+entry_point_name: ''
+experiment_id: '155837860896984421'
+lifecycle_stage: active
+run_id: 66b99e126c664b4ca559f5a0fa73cfc0
+run_name: redolent-snake-764
+run_uuid: 66b99e126c664b4ca559f5a0fa73cfc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741543067437
+status: 3
+tags: []
+user_id: Appex

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/GenAI/Udemy_course/MLOps_Bootcamp/MLOps/mlflow_manage_ml_experiments/mlruns/155837860896984421/d2a1def53c0c43a99e2751787b4033ae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '155837860896984421'
+lifecycle_stage: active
+run_id: d2a1def53c0c43a99e2751787b4033ae
+run_name: funny-grub-674
+run_uuid: d2a1def53c0c43a99e2751787b4033ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741547366891
+status: 1
+tags: []
+user_id: Appex

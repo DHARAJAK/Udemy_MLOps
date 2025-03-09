@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/GenAI/Udemy_course/MLOps_Bootcamp/MLOps/mlflow_manage_ml_experiments/mlruns/0/979399a649e148988792605dce32c9c2/artifacts
+end_time: 1741530903685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 979399a649e148988792605dce32c9c2
+run_name: Example Demo
+run_uuid: 979399a649e148988792605dce32c9c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741530903534
+status: 3
+tags: []
+user_id: Appex
